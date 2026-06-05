@@ -7,7 +7,7 @@ O. Steshenko, NaUKMA, 2026
 ## How to run
 
 1. Clone or download this repository
-2. Place the dataset at `data/Data_term_paper.xlsx`
+2. Place the dataset in the same folder as the script
 3. Open `gold_analysis.R` in RStudio and run, or from terminal:
 
 ```r
@@ -16,9 +16,9 @@ Rscript gold_analysis.R
 
 ## Repository structure
 
-├── gold_analysis.R       # main replication script
-├── data/
-│   └── Data_term_paper.xlsx   # dataset (monthly + quarterly sheets)
+Gold_price_central_banks/
+├── gold_analysis.R
+├── Data_term_paper.xlsx
 └── README.md
 
 
