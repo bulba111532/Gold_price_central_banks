@@ -16,10 +16,12 @@ Rscript gold_analysis.R
 
 ## Repository structure
 
+```
 Gold_price_central_banks/
-├── Data_term_paper.xlsx
-├── gold_analysis.R
+├── gold_analysis.R          # main replication script
+├── Data_term_paper.xlsx     # dataset (sheets: monthly, quarterly)
 └── README.md
+```
 
 ## Data sources
 
