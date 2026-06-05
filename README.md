@@ -22,7 +22,6 @@ Gold_price_central_banks/
 └── README.md
 
 
-
 ## Data sources
 
 | Variable | Source |
