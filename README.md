@@ -17,7 +17,6 @@ Rscript gold_analysis.R
 ## Repository structure
 
 Gold_price_central_banks/
-
 ├── Data_term_paper.xlsx
 ├── gold_analysis.R
 └── README.md
