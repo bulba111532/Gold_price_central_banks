@@ -30,7 +30,7 @@ filter <- dplyr::filter
 
 # Input file ------------------------------------------------------------------
 args       <- commandArgs(trailingOnly = TRUE)
-EXCEL_FILE <- if (length(args) >= 1) args[1] else "data/Data_term_paper.xlsx"
+EXCEL_FILE <- if (length(args) >= 1) args[1] else "Data_term_paper.xlsx"
 if (!file.exists(EXCEL_FILE))
   stop("Dataset not found at '", EXCEL_FILE,
        "'. Place the .xlsx there or pass the path as an argument.")
